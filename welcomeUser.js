@@ -1,2 +1,2 @@
-const userName = "John";
-console.log("Bienvenue", userName);
+const userName="John";
+console.log("Welcom", userName);

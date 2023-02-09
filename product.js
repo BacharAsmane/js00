@@ -1,1 +1,1 @@
-console.log(2 * 1 * 375);
+console.log(2*1*375);
